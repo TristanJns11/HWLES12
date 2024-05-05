@@ -1,0 +1,65 @@
+header {
+    background-color: #850000;
+    width: 100%;
+    height: 100px;
+}
+footer {
+    background-color: #381C00;
+    width: 100%;
+    height: 100px;
+}
+table, tr, td {
+    border: 1px solid;
+    width: 30%;
+}
+#Appel {
+    background-color: green;
+}
+#Peren {
+    background-color: #998711;
+}
+#Banaan {
+    background-color: yellowgreen;
+}
+#Aardbei {
+    background-color: #9C3335;
+}
+
+#Fietsen {
+    background-color: #785556;
+}
+#Lopen {
+    background-color: #5E1D25;
+}
+#Kayak {
+    background-color: #334929;
+}
+#Tennis {
+    background-color: #87851E;
+}
+
+#Kawasaki {
+    background-color: yellow;
+}
+#Yamaha {
+    background-color: aquamarine;
+}
+#Suzuki {
+    background-color: blanchedalmond;
+}
+#Honda {
+    background-color: #FF0004;
+}
+
+#Wolken {
+    background-color: blue;
+}
+#Zon {
+    background-color: orange;
+}
+#Regen {
+    background-color: #4242A6;
+}
+#Lucht {
+    background-color: skyblue;
+}
